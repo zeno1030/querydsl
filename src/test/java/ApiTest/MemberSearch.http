@@ -1,0 +1,7 @@
+### 멤버 출력
+GET http://localhost:8080/v1/members
+Content-Type: application/json
+
+### 멤버 출력 동적쿼리
+GET http://localhost:8080/v1/members?teamName=teamA&ageGoe=31&ageLoe=45
+Content-Type: application/json
