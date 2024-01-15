@@ -4,7 +4,8 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-*.yml
+C:\study\BE\querydsl\src\main\resources\application.yml
+C:\study\BE\querydsl\src\test\java\resources\application.yml
 
 ### STS ###
 .apt_generated
